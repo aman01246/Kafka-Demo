@@ -1,6 +1,0 @@
-spring.application.name=kafka-order-notification
-
-server.port=8081
-
-#Kafka
-spring.kafka.bootstrap-servers=localhost:9092
